@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=AhYeon&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" alt="header" />
