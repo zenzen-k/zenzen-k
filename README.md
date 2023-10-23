@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-Java-5D5D5D?logo=Java&logoColor=white&style=for-the-badge"/>&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-5D5D5D?logo=JavaScript&logoColor=white&style=for-the-badge"/>&nbsp;
     <img src="https://img.shields.io/badge/-jQuery-5D5D5D?logo=jQuery&logoColor=white&style=for-the-badge"/>&nbsp;
+      <br>
     <img src="https://img.shields.io/badge/-HTML5-5D5D5D?logo=HTML5&logoColor=white&style=for-the-badge"/>&nbsp;
     <img src="https://img.shields.io/badge/-CSS3-5D5D5D?logo=CSS3&logoColor=white&style=for-the-badge"/>&nbsp;
     <img src="https://img.shields.io/badge/-Bootstrap 4-5D5D5D?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;
