@@ -7,7 +7,7 @@
 <p align="center">
   <h2 align="center">:computer:Github Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zenzen-k" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zenzen-k&theme=dracula" alt="stats" />
   </p>
 </p>
 
