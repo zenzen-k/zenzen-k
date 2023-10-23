@@ -9,6 +9,10 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zenzen-k" alt="stats" />
   </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJISANG&layout=compact" alt="mul" />
+  </p>
 </p>
 
 
