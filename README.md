@@ -14,15 +14,15 @@
 <p align="center">
   <h2 align="center">:computer:Task Stack</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Spring-green?logo=Spring&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-SpringBoot-green?logo=Spring&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Java-008C8C?logo=Java&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-jQuery-0078FF?logo=jQuery&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-HTML5-red?logo=HTML5&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Bootstrap 4-purple?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Oracle-FF3232?logo=Oracle&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Spring-5D5D5D?logo=Spring&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-SpringBoot-5D5D5D?logo=Spring&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Java-5D5D5D?logo=Java&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-5D5D5D?logo=JavaScript&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-jQuery-5D5D5D?logo=jQuery&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-HTML5-5D5D5D?logo=HTML5&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-5D5D5D?logo=CSS3&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap 4-5D5D5D?logo=Bootstrap&logoColor=white&style=for-the-badge"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Oracle-5D5D5D?logo=Oracle&logoColor=white&style=for-the-badge"/>&nbsp;
   </p>
 </p>
 
