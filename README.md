@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Ah-Yeon%20Kim&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="header" />
 </p>
-<p align="center">
-  [![ah-yeon GitHub stats](https://github-readme-stats.vercel.app/api?username=zenzen-k&theme=dracula)](https://github.com/zenzen-k/github-readme-stats)
-</p>
+
 
 
 
